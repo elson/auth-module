@@ -41,7 +41,7 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.1",
+    "@nuxtjs/axios": "^5.12.3",
     "boom": "^7.2.0",
     "consola": "^1.4.3",
     "cookie": "^0.3.1",
